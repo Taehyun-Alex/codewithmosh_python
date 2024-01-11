@@ -1,4 +1,3 @@
-import requests
+from alexpdf import pdf2text
 
-response = requests.get("https://google.com")
-print(response)
+pdf2text.convert()

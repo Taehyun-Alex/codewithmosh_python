@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "1977acb1ba9778abb66054090e2618a0a1f1759b1b3b32afd8a7d404ba18b4fb"
+            "sha256": "1f2447958618104895f6e1195052d638d2d0057018e816aec21180fe2d0e7a9d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,14 @@
         ]
     },
     "default": {
+        "alex-practing-pdf": {
+            "hashes": [
+                "sha256:e9d1f327414a4887fa38382551d266877982d95b626caa035f3c3938c4aae079",
+                "sha256:f434ee398c11495c1f6b7efa6b35f60a629391764dd3c418b29df751e3a69772"
+            ],
+            "index": "pypi",
+            "version": "==1.0"
+        },
         "certifi": {
             "hashes": [
                 "sha256:9b469f3a900bf28dc19b8cfbf8019bf47f7fdd1a65a1d4ffb98fc14166beb4d1",

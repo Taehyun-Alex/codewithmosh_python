@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 requests = "*"
+alex-practing-pdf = "*"
 
 [dev-packages]
 
